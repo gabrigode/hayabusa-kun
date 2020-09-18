@@ -1,1 +1,1 @@
-worker: cd "src" node index.js
+worker: npm start
