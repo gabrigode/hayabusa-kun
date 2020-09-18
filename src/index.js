@@ -47,4 +47,11 @@ client.on('message', async message =>{
 
 client.login(process.env.BOT_TOKEN);
 
+const http = require('http');
+const server = http.createServer((req, res) => {
+  res.writeHead(200);
+  res.end('BOT IS RUNNING!');
+});
+server.listen(3000);
+
 
