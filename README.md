@@ -13,6 +13,3 @@ A Discord bot for Kamen Rider fans.
 
 ## Support
 If anything goes wrong or you need support just send me a word at Discord `gabrigode#0001` or [Twitter](https://twitter.com/gabrigodes).
-
-## Donations
-[![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/J3J2MTN6)
